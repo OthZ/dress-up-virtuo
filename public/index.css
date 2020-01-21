@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://www.excelrentacar.com.au/wp-content/uploads/2015/10/car-rental-wallpaper.jpg);
+    background-size: cover;
+    text-align: center;
+    width: 360px;
+    margin:200px auto;
+    padding: 45px;
+    box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    box-sizing: border-box;
+    font-size:18px;
+}
+input { 
+	width: 93%; 
+	margin-bottom: 10px; 
+	background: rgba(147, 144, 155, 0.3);
+	border: none;
+	outline: none;
+	padding: 10px;
+	font-size: 15px;
+	color: rgb(73, 71, 71);
+	border: 1px solid rgba(0,0,0,0.3);
+	border-radius: 4px;
+	-webkit-transition: box-shadow .5s ease;
+	-moz-transition: box-shadow .5s ease;
+	-o-transition: box-shadow .5s ease;
+	-ms-transition: box-shadow .5s ease;
+	transition: box-shadow .5s ease;
+}
+button{
+    width: 50%; 
+	margin-bottom: 10px; 
+	background: rgba(147, 144, 155, 0.3);
+	padding: 10px;
+	font-size: 15px;
+	color: rgb(73, 71, 71);
+	border: 1px solid rgba(0,0,0,0.3);
+	border-radius: 4px;
+}
+checkbox{
+
+    color: rgb(73, 71, 71);
+}
